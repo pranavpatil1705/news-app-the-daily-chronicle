@@ -1,4 +1,4 @@
-let apiKey ="5c5cdc05ffc1485bad3a88fa1762b146";
+let apiKey ="";//insert your api key
 
 
 const container = document.querySelector(".container");
